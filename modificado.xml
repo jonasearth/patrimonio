@@ -1,0 +1,3224 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Rafael</Author>
+  <LastAuthor>Fnatic</LastAuthor>
+  <LastPrinted>2019-11-22T00:59:47Z</LastPrinted>
+  <Created>2019-10-07T16:37:08Z</Created>
+  <LastSaved>2020-01-16T02:29:25Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9600</WindowHeight>
+  <WindowWidth>23925</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>784</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Normal 3">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s83" ss:Name="Normal_Plan1_1">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s84" ss:Parent="s83">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s85" ss:Parent="s83">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s86">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s87">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s88" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s89" ss:Parent="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s90">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="(C) Bens disponíveis">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase"
+    ss:RefersTo="='(C) Bens disponíveis'!R1C1:R81C4" ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="427" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s63">
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="387.75"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="117"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="192.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">000033</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NOTEBOOK TOSHIBA SATELLITE A100-SK4 MOD.PSAA8C INTEL CENTRINO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">NOTEBOOK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">000043</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MESA EM MADEIRA C/02 GAVETAS CINZA PANDIN MED. 1,20 X 0,65 CM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">MESA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SEDE/ADMINISRATIVO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">000057</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">IMPRESSORA MULTIFUNCIONAL HP PSC 1315</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">IMPRESSORA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">000069</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">COMPUTADOR DELL OPTIPLEX EX 620 PENTIUM D</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">COMPUTADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">000077</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MONITOR LCD LG FLATRON W1943C 30.000:1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">MONITOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SEDE/ADMINISRATIVO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">000079</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">COMPUTADOR ASUS INTEL CORE 2DUO 2.00GB</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">COMPUTADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/TI</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">000095</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">FRAGMENTADORA DE PAPEL LEADER SHIP</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">FRAGMENTADORA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000135</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MICROONDAS PHILCO BRANCO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">COMPUTADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/COPA TERREO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000163</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000164</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">VENTILADOR DE COLUNA MONDIAL BRANCO 40 CM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">VENTILADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/DEPOSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000178</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA ASPECTTO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000190</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT SPRINGER CARRIER 9.000 BTUS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">EVAPORADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000210</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA ASPECTTO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000272</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000281</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">FAX PANASONIC KX-F580</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">FAX</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SEDE/ARQUIVO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000310</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ESTABILIZADOR POWER BOX PRETO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ESTABILIZADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000332</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CADEIRA GIRATORIA PRETA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000335</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DVR INTELBRAS VD 3008</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">DVR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/TI</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000340</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">COMPUTADOR X-300 STR 38 INTEL PENTIUM DUAL 2GB</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">COMPUTADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000342</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MONITOR CRT IBM P51</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">MONITOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000345</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AR CONDICIONADO JANELA CONSUL 7.500 BTUS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">AR CONDICIONADO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000348</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">FOGÃO ATLAS DEVER BRANCO 04 QUEIMADORES </Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">FOGÃO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/DEPOSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000357</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000365</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CALCULADORA SHARP EL-1750V</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CALCULADORA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/TI</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000369</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MONITOR LCD SAMSUNG 510N</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">MONITOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000371</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CADEIRA FIXA PRETA BELO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/DEPOSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000372</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CADEIRA FIXA PRETA BELO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000375</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CADEIRA FIXA PRETA BELO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000376</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CADEIRA FIXA PRETA BELO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SEDE/DEPOSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000378</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CENTRAL DE ALARME DIGISTAR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CENTRAL</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/SALA NOBREAK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000380</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MESA EM FORMICA BRANCA BASE METALICA C/03 GAVETAS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">MESA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/DEPOSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000501</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ESTABILIZADOR SMS USP 300 BI</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ESTABILIZADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000518</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ESTABILIZADOR ENERMAX POWER T300</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ESTABILIZADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000543</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DVR DIGITAL VIDEO RECORDER ICOP MPE G4 9CH</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">DVR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SEDE/TI</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000551</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ROTEADOR D-LINK ADSL2 +ROUTER DSL-500B</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ROTEADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000552</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ROTEADOR SMART LAN WIRELESS SPEED 150 MBPS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ROTEADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000554</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">COMPUTADOR INTEL PENTIUM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">COMPUTADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000670</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT HOMECO 60.000 BTUS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">EVAPORADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">000809</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DVR DIGITAL VIDEO RECORDER CLEAR H.264 MOD. CL-D7308HF</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">DVR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">SEDE/TI</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001286</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">ARMARIO VERTICAL EM MADEIRA BRANCO C/02 PORTAS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ARMARIO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001287</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">ARMARIO VERTICAL EM MADEIRA BRANCO C/02 PORTAS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ARMARIO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001288</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">MESA EM MDF AREIA C/02 GAVETAS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MESA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001289</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">MESA EM MDF AREIA C/02 GAVETAS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MESA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001290</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">MESA EM MDF AREIA C/02 GAVETAS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MESA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001291</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">MESA EM MDF CEREJEIRA L SEM GAVETA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MESA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001292</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA GIRATORIA VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001293</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA GIRATORIA VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001294</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">LONGARINA 03 LUGARES VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">LONGARINA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001295</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA FIXA AZUL</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001296</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA FIXA AZUL</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001297</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">LONGARINA 03 LUGARES CINZA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">LONGARINA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001298</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">LONGARINA 03 LUGARES CINZA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">LONGARINA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001299</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">LONGARINA 03 LUGARES VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">LONGARINA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001300</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">LONGARINA 03 LUGARES VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">LONGARINA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001301</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA FIXA VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001302</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA FIXA VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001303</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA FIXA VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001304</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA FIXA VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001305</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA FIXA VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001306</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA FIXA VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001307</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA FIXA VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001308</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA FIXA AZUL</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001309</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA GIRATORIA VERDE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001310</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001311</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CADEIRA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001312</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">IMPRESSORA MULTIFUNCIONAL EPSON L395</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">IMPRESSORA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001313</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">COMPUTADOR DELL OPTIPLEX 380</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">COMPUTADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001314</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">IMPRESSORA MULTIFUNCIONAL SAMSUNG SCX-3200</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">IMPRESSORA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001315</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">PIN PAD GERTEC PPC 900</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">PIN PAD</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001316</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">PIN PAD GERTEC PPC 900</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">PIN PAD</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001317</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">PIN PAD GERTEC PPC 900</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">PIN PAD</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001318</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">PIN PAD GERTEC PPC 920</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">PIN PAD</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001319</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">DIGITALIZADOR CIS FRT MAXYSCANLL</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">DIGITALIZADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001320</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">DIGITALIZADOR CIS FRT MAXYSCANLL</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">DIGITALIZADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001321</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">DIGITALIZADOR HANDBANK EC NONUS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">DIGITALIZADOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001322</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">LEITOR DE CHEQUES PANINI VISION</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">LEITOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001323</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">LEITOR DE CHEQUES PANINI VISION</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">LEITOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001324</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">DVR ZIRIO H264</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">DVR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001325</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">PIN PAD GERTEC PPC 920</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">PIN PAD</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">001326</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">RACK VERTICAL METALICO VERTICAL P/SERVIDOR</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">RACK</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000038</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MICROONDAS CONSUL BRANCO</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MICROONDAS</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA HU</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000045</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FRAGMENTADORA DE PAPEL SECRETA 1000SB</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">FRAGMENTADORA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000082</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED DELL E1913C</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/CONTROLES INTERNOS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000087</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE AUXILIAR EM AÇO P/IMPRESSORA INFORMAK</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/ADMINISTRATIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000095</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FRAGMENTADORA DE PAPEL LEADER SHIP</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">FRAGMENTADORA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000096</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ARQUIVO EM AÇO C/04 GAVETAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">SEDE/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000103</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">SWITCH INTELBRAS 24 PORTAS QOS SF2400</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SWITCH</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/TI</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000104</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">SWITCH INTELBRAS 24 PORTAS QOS SF2400</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SWITCH</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">SEDE/TI</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000107</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">EQUIP. INTERFACE CELULAR INTELBRAS ICT 4000 i</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">EQUIPAMENTO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/TI</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000113</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED DELL E1913C</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000128</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CAIXA AMPLIFICADORA VOXSTORM VSU 140</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CAIXA SOM</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/SALA DE REUNIÃO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000164</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">VENTILADOR DE COLUNA MONDIAL BRANCO 40 CM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">VENTILADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/DEPOSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000167</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CENTRAL DE CERCA ELETRICA OMEGA SAT - VEJA KEY S2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CENTRAL</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/SALA NOBREAK</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000184</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED WIS8 MOD.WSL CD-S185B</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA HU</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000235</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED DELL E1913C</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/GERÊNCIA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000240</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">COFRE MECÂNICO EM AÇO C/01 PORTA </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">COFRE</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">SEDE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000245</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LCD SAMSUNG 510N</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA HU</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000257</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED AOC E950WN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">SEDE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000270</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CALCULADORA SHARP EL-1750V</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">CALCULADORA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">SEDE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000271</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CALCULADORA SHARP EL-1750V</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">CALCULADORA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000277</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">COFRE MECÂNICO EM AÇO 30CM C/01 PORTA </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">COFRE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000287</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED DELL 15&quot;</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA HU</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000290</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">SWITCH INTELBRAS SF800 Q# 8P.</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SWITCH</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA HU</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000337</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">SWITCH DNET DN-SF1 1024 10/100</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SWITCH</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000348</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FOGÃO ATLAS DEVER BRANCO 04 QUEIMADORES </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">FOGÃO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/DEPOSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000349</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">REFRIGERADOR COMPACTO ELETROLUX RE120</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">REFRIGERADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/COPA 1º ANDAR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000359</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LCD SAMSUNG 510N</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000365</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CALCULADORA SHARP EL-1750V</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">CALCULADORA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/TI</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000369</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LCD SAMSUNG 510N</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000378</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CENTRAL DE ALARME DIGISTAR</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CENTRAL</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/SALA NOBREAK</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000417</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">GAVETEIRO EM MADEIRA C/03 GAVETAS</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">GAVETEIRO</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000418</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">GAVETEIRO EM MADEIRA C/03 GAVETAS</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">GAVETEIRO</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000419</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">GAVETEIRO EM MADEIRA C/03 GAVETAS</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">GAVETEIRO</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000426</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">IMPRESSORA MULTIFUNCIONAL HP LASERJET M1319F MFP</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000427</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">NOBREAK TS SHARA</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">NOBREAK</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000430</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">NOBREAK TS SHARA</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">NOBREAK</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000440</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA ASPECTTO</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000443</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CADEIRA FIXA PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000446</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">VENTILADOR DE COLUNA MONDIAL BRANCO 40 CM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">VENTILADOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000448</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ARMARIO DE COZINHA SUSPENSO EM MADEIRA C/02 PORTAS 0,89 X 0,36</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000452</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MINE RACK METALICO C/01 PORTA TEX</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">RACK</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000454</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">SWITCH INTELBRAS SF 2400 QR</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SWITCH</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000456</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CADEIRA FIXA PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000457</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CENTRAL DE ALARME GARD 18 PROTEL</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CENTRAL</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000458</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ARMARIO EM MADEIRA C/03 PORTAS FRONTAL E SUPERIOR 1,83 X 0,60 CM</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000459</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">BALCÃO EM MADEIRA 03 LUGARES C/12 GAVETAS 3,45 X 0,57 CM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">BALCÃO</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000463</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED AOC E950SWN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000464</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">NOBREAK SMS</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">NOBREAK</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000465</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">COMPUTADOR ASUS CORE 2DUO E7400 2.8 GHZ</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">COMPUTADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000466</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LCD DELL</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000473</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">COFRE EM AÇO MECANICO C/01 PORTA 30CM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">COFRE</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000474</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">COFRE EM AÇO MECANICO C/01 PORTA 40CM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">COFRE</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000478</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CENTRAL TELEFONICA INTELBRAS MODULARE I</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CENTRAL</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000480</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">PERSIANA VERTICAL EM PVC 1,90 CM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">PERSIANA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000483</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">PERSIANA VERTICAL EM PVC 2,70 CM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">PERSIANA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000485</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">LEITOR DE CHEQUES CIS LS40 S/05980</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">LEITOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">SEDE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000491</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">GAVETEIRO EM MADEIRA C/03 GAVETAS VERDE/BRANCO WV DESING</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">GAVETEIRO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000495</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTABILIZADOR SMS</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTABILIZADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000501</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTABILIZADOR SMS USP 300 BI</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTABILIZADOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000502</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">IMPRESSORA FISCAL BEMATECH</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000506</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">COFRE MECANIXO EM AÇO C/01 PORTA 0,80 X 0,30 CM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">COFRE</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000507</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">LONGARINA 03 LUGARES ASSENTO/ENCOSTO PLASTICO VERDE</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">LONGARINA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000517</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED PHILIPS 191EL</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000518</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTABILIZADOR ENERMAX POWER T300</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTABILIZADOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000520</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED DELL E1913C</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000531</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CADEIRA FIXA VERDE</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000535</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MICROONDAS CONSUL CINZA</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MICROONDAS</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000536</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FRAGMENTADORA DE PAPEL AURORA HS890C</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">FRAGMENTADORA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000538</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">GAVETEIRO EM MADEIRA C/03 GAVETAS VERDE/BRANCO WV DESING</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">GAVETEIRO</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000540</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">RACK METALICO C/01 PORTA  MED. 0,52 X 0,40 CM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">RACK</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000541</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ARMARIO VERTICAL EM MADEIRA CINZA C/02 PORTAS 1,90 X 1,30 CM</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000542</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ARMARIO VERTICAL EM MADEIRA CINZA C/01 PORTA 1,90 X 0,63 CM</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000548</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT LG 18.000 BTUS</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000549</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">SISTEMA DE ALARME INNOVA NET 558</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CENTRAL</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000550</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">SWITCH D-LINK DES-1016A 16 PORTAS</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SWITCH</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000551</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ROTEADOR D-LINK ADSL2 +ROUTER DSL-500B</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ROTEADOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000552</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ROTEADOR SMART LAN WIRELESS SPEED 150 MBPS</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ROTEADOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000554</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">COMPUTADOR INTEL PENTIUM</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">COMPUTADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/ARQUIVO FINANCEIRO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000560</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CAFETEIRA ELETRICA ELETROLUX CME11</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">CAFETEIRA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000579</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000580</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000581</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000582</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000583</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000584</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000585</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000586</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000587</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000588</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000589</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000592</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/05 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000593</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTANTE EM AÇO C/05 PRATELEIRAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000594</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ARMARIO VERTICAL EM AÇO C/02 PORTAS CINZA GGL</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000597</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ROUPEIRO EM AÇO C/12 PORTAS CINZA PANDIN</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ROUPEIRO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000620</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FOGÃO 04 QUEIMADORES BRANCO ITATIAIA CARDEM </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">FOGÃO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000621</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">GRILL E SANDUICHEIRA VICINI EPV 820</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">GRILL</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000646</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">IMPRESSORA SENHA INFO LIFE</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000668</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTABILIZADOR REGTECH SIDE WAM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTABILIZADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000684</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">SWITCH D-LINK DES-1016A 16 PORTAS</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SWITCH</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000687</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">NOBREAK NHS MINI III</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">NOBREAK</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000696</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">IMPRESSORA MULTIFUNCIONAL HP LASERJET M1132 MFP</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000698</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED AOC DCR 10.000:1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000699</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTBILIZADOR REGTECH</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">ESTABILIZADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000714</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED DELL E1913C</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000728</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT SAMSUNG  VIRUS DOCTOR 9.000 BTUS</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000736</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MESA REUNIÃO OVAL EM MADEIRA AREIA /MOGNO 06 LUGARES</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MESA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ SALA COOPERADO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000741</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT HOMECO 18.000 BTUS</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ SALA COOPERADO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000761</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ESTABILIZADOR ENERMAX</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTABILIZADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000764</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LED DELL E1913C</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000769</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT GREE 24.000 BTUS</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000781</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">MONITOR LCD SAMSUNG B1630 50000:1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000793</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FRAGMENTADORA DE PAPEL MENNO CS-200</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">FRAGMENTADORA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000802</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ARQUIVO EM AÇO C/04 GAVETAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ TESOURARIA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000806</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">NOBREAK YUP-E ENFRAMAT</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">NOBREAK</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000810</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">SWITCH INTELBRAS 24 PORTAS QOS</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SWITCH</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ ACESSO RESTRITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000814</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">NOBREAK SMS MANEGER NET +</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">NOBREAK</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ ACESSO RESTRITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000817</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">VENTILADOR MONDIAL BRANCO 40CM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">VENTILADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000824</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CADEIRA AUXILIAR P/COPA ASSENTO E ENCOSTO PRETO </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000825</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CADEIRA AUXILIAR P/COPA ASSENTO E ENCOSTO PRETO </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000826</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CADEIRA AUXILIAR P/COPA ASSENTO E ENCOSTO PRETO </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000827</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CADEIRA AUXILIAR P/COPA ASSENTO E ENCOSTO PRETO </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000828</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CAFETEIRA ELETRICA ELETROLUX 24 XICARAS</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">CAFETEIRA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000830</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ARQUIVO EM AÇO C/04 GAVETAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ AREA DE SERVIÇO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000836</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO VERDE</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ AREA DE SERVIÇO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000839</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CENTRAL CERCA ELETRICA INTELBRAS ELC-4001 RF</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CENTRAL</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ AREA DE SERVIÇO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000841</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ARQUIVO DE AÇO C/04 GAVETAS</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">SEDE/ADMINISTRATIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000854</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ARQUIVO EM ACO C/04 GAVETAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/ARQUIVO CADASTRO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000877</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETAS</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">AGÊNCIA HU</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000889</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">MESA CINZA C/02 GAVETAS MED. 1,50 X 0,60 CM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MESA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEDE/CONTROLES INTERNOS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000890</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT LG 12.000 BTUS</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEDE/DIRETORIA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s88"><Data ss:Type="String">000900</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ARMARIO EM MADEIRA REVESTIDO EM FORMICA CINZA C/03 PORTAS  </Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/ARQUIVO CADASTRO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000907</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">EQUIPAMENTO CONCENTRADOR INTERNET RIVERBED STEEL HEAD P/SISTEMA SAU</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">EQUIPAMENTO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEDE/TI</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000908</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CENTRAL DE ALARME INTELBRAS AMT-2018 EG</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CENTRAL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEDE/TI</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000910</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">MICROFONE SEM FIO JWL U-585H</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MICROFONE</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/SALA DE REUNIÃO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000914</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARMARIO DE COZINHA SUSPENSO METALICO C/03 PORTAS ITATIAIA</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">SEDE/COPA TERREO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000915</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">IMPRESSORA MULTIFUNCIONAL HP LASERJET P2035</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">SEDE/CPD</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000916</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">IMPRESSORA HP LASERJET P1005</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">SEDE/DIRETORIA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000924</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">CAFETEIRA ELETRICA WALITA/PHILIPS 40 XICARAS</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">CAFETEIRA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000925</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">COMPUTADOR GABINETE CATECH INTEL CORE I3 3220 4.0 GB</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">COMPUTADOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000926</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">COMPUTADOR GABINETE ASUS INTEL CORE I5 4.00 GB</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">COMPUTADOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000927</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">EQUIPAMENTO CONCENTRADOR INTERNET RIVERBED STEEL HEAD P/SISTEMA SAU</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">EQUIPAMENTO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA STO. ANTÔNIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000928</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">EQUIPAMENTO CONCENTRADOR INTERNET RIVERBED STEEL HEAD P/SISTEMA SAU</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">EQUIPAMENTO</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000929</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">ROTEADOR CISCO MERAKI 21</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ROTEADOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000930</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">DVR INTELBRAS HDCVI</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">DVR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000932</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">ESTABILIZADOR RAGTECH</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTABILIZADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000933</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">ESTABILIZADOR SIDE WAY</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTABILIZADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000935</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">LEITOR DE CHEQUES CIS 40 S/004381</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">LEITOR</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">AGÊNCIA EPITACIO/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000937</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">DVR INTELBRAS VD 3116 16 CANAIS</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">DVR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000938</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">IMPRESSORA BEMATECH MP-4200 TH</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">AGÊNCIA EUNAPOLIS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000939</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">HD EXTERNO SEAGATE 1TB </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">HD</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000940</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">ESTABILIZADOR FORCEOLINE REF. 576</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTABILIZADOR</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000943</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">ESTABILIZADOR FORCELINE</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ESTABILIZADOR</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000944</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">NO BREAK TS SHARA 700 VA</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">NOBREAK</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ ACESSO RESTRITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000945</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">DVR INTELBRAS HDCVI</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">DVR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ ACESSO RESTRITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000946</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">EQUIPAMENTO CONCENTRADOR INTERNET RIVERBED STEEL HEAD P/SISTEMA SAU</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">EQUIPAMENTO</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ ACESSO RESTRITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000947</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">ROTEADOR OPTICON DSLINK 477</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ROTEADOR</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ ACESSO RESTRITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000948</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">CENTRAL TELEFONICA CONECT INTELBRAS</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">CENTRAL</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/ ACESSO RESTRITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000949</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">LEITOR CIS LS 40 </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">LEITOR</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">AGÊNCIA TEIXEIRA DE FREITAS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000964</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">COFRE ELETRONICO TECCONTROL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">COFRE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA PORTO SEGURO/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000976</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">MONITOR LED DELL 17&quot;</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">SEDE/ADMINISTRATIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000978</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEDE/ARQUIVO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000983</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ESTANTE EM AÇO C/03 PRATELEIRAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEDE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000985</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">PIN PAD GERTEC PPC 900</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">PIN PAD</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEDE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000986</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">PIN PAD GERTEC PPC 920</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">PIN PAD</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEDE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000987</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ESTANTE EM AÇO C/06 PRATELEIRAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ESTANTE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEDE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000988</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">BEBEDOURO ESMALTEC GELAGUA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">BEBEDOURO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEDE/ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000989</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">MESA DE SOM ONEAL DMX 412</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MESA SOM</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEDE/SALA DE REUNIÃO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000991</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARMARIO EM MDF BRANCO C/02 PORTAS MED. 2,00 X 0,70 CM</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000995</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">MONITOR LED DELL 17&quot;</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000996</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">IMPRESSORA BEMATECH MP-4200 TH</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">000997</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">PIN PAD PPC 920 - GERTEC</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">PIN PAD</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001006</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">SWITCH INTELBRAS SF 2400 GRt 24 PORTAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SWITCH</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001007</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">DVR INTELBRAS MULTI HD</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">DVR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001008</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">NOBREAK REGTECH</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">NOBREAK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001028</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">MONITOR LED DELL 17&quot;</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001030</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARMARIO HORIZONTAL EM MDF C/02 PORTAS DE CORRER BRANCO MED. 1,20 X 0,62</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001031</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARMARIO HORIZONTAL EM MDF C/02 PORTAS DE CORRER BRANCO MED. 1,20 X 0,62</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001032</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">PURIFICADOR DE AGUA ELETROLUX BRANCO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">PURIFICADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001037</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">MONITOR LED DELL 17&quot;</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001040</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">MOVEL AUXILIAR EM MDF BRANCO </Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MOVEL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA SALVADOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001058</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">COFRE EM AÇO MACANICO C/01 PORTA 30 CM</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">COFRE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA CRUZ DAS ALMAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001059</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">PIN PAD GERTEC PPC920</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">PIN PAD</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA CRUZ DAS ALMAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001062</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">APARADOR EM MADEIRA MOGNO C/TAMPO ESPELHADO MED. 1,20 X 0,43 CM</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">APARADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AG. SANTO ANTONIO DE JESUS - AGENCIA ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001067</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">IMPRESSORA BEMATECH MP-4200 TH</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AG. SANTO ANTONIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001068</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">PIN PAD GERTEC PPC920</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">PIN PAD</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AG. SANTO ANTONIO DE JESUS/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001072</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - SALAS DESATIVADAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001073</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - SALAS DESATIVADAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001074</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - SALAS DESATIVADAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001081</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - SALAS DESATIVADAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001082</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - SALAS DESATIVADAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001083</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA PLAXMETAL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - SALAS DESATIVADAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001087</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">IMPRESSORA HP CE749A LASERJET P1606DN</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - SALAS DESATIVADAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001090</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA PRETA C/BRAÇOS PLAXMETAL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - HALL COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001091</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA PRETA C/BRAÇOS PLAXMETAL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - HALL COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001094</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARMARIO AUXILIAR DE COZINHA EM MDF BRANCO C/01 PORTA ITATIAIA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - HALL COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001096</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARMARIO VERTICAL EM MDF BRANCO C/02 PORTAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - HALL COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001098</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA PLAXMETAL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - HALL COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001108</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - HALL COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001110</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARMARIO SUSPENSO EM MDF BRANCO C/01 PORTA ITATIAIA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - HALL COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001125</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - SALA REUNIÃO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001129</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">IMPRESSORA MULTIFUNCIONAL SAMSUNG XPRESS M2070FW</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - SALA REUNIÃO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001141</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001142</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001143</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001144</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001145</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001152</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT LG 11.500 BTUS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001158</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">IMPRESSORA HP CE749A LASERJET P1606DN</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001171</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">SUPORTE METALICO P/REVISTAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SUPORTE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001172</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">SUPORTE METALICO P/REVISTAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SUPORTE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001175</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001176</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001185</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO VERDE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - RETAGUARDA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001188</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARMARIO VERTICAL PLANEJADO EM MDF CEREJEIRA C/04 PORTAS CORRER</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - RETAGUARDA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001200</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARQUIVO EM MADEIRA BRANCO C/12 GAVETAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - RETAGUARDA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001203</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">FRAGMENTADORA DE PAPEL SECRETA 1502X</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">FRAGMENTADORA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - RETAGUARDA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001208</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - RETAGUARDA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001209</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - RETAGUARDA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001210</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA VERDE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - RETAGUARDA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001229</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARQUIVO EM AÇO C/04 GAVETAS PANDIN</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - RETAGUARDA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001230</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARQUIVO EM AÇO C/04 GAVETAS W3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - RETAGUARDA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001232</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA VERDE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - ATENDIMENTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001240</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - TESOURARIA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001241</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - TESOURARIA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001242</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA VERDE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - TESOURARIA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001245</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">IMPRESSORA CULPOM FISCAL DIEBOLD</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - TESOURARIA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001258</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARQUIVO EM MADEIRA BRANCO C/04 GAVETAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - TESOURARIA/SERVIDOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001259</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARQUIVO EM MADEIRA BRANCO C/04 GAVETAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - TESOURARIA/SERVIDOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001261</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA VERDE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - TESOURARIA/SERVIDOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001265</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT LG 8.500 BTUS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - TESOURARIA/SERVIDOR</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001268</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">MONITOR LED LG 17</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001277</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO CAIXA CAVALETTI PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001278</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO CAIXA CAVALETTI PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001279</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001280</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO - CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001286</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARMARIO VERTICAL EM MADEIRA BRANCO C/02 PORTAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001287</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARMARIO VERTICAL EM MADEIRA BRANCO C/02 PORTAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001292</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA VERDE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001293</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA VERDE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001295</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA AZUL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001296</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA AZUL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001300</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">LONGARINA 03 LUGARES VERDE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">LONGARINA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001308</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA AZUL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001309</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA VERDE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001310</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001311</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001314</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">IMPRESSORA MULTIFUNCIONAL SAMSUNG SCX-3200</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001319</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">DIGITALIZADOR CIS FRT MAXYSCANLL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">DIGITALIZADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001320</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">DIGITALIZADOR CIS FRT MAXYSCANLL</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">DIGITALIZADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001321</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">DIGITALIZADOR HANDBANK EC NONUS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">DIGITALIZADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001323</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">LEITOR DE CHEQUES PANINI VISION</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">LEITOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001324</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">DVR ZIRIO H264</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">DVR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001325</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">PIN PAD GERTEC PPC 920</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">PIN PAD</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001326</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">RACK VERTICAL METALICO VERTICAL P/SERVIDOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">RACK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGENCIA EPITACIO/DEPÓSITO</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001329</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARMARIO BAIXO EM MDF MOGNO C/02 PORTAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARMARIO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001332</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001333</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001334</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001335</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001336</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA C/BRAÇO PRETA CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001357</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARQUIVO EM AÇO C/04 GAVETAS W3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001358</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ARQUIVO EM AÇO C/04 GAVETAS W3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ARQUIVO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001361</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">COFRE EM ACO MECANICO C/01 PORTA 40 CM</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">COFRE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001362</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA PLASTICA PRETA TRAMONTINA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001364</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT LG 11.500 BTUS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001367</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">MONITOR LCD LG FLATRON W1643C</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001368</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">NOBREAK NHS LASER </Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">NOBREAK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001370</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">RACK METALICO P/SWITCH</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">RACK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001371</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">RACK METALICO P/SWITCH</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">RACK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001372</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ROTEADOR MEKARI CISCO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ROTEADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001373</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">SWITCH TP-LINK TL-561016 16 PORTAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SWITCH</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001376</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">BALCÃO DE ATENDIMENTO EM MDF MOGNO 02 LUGARES C/02 GAVETAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">BALCÃO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001377</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">GAVETEIRO EM MDF MOGNO C/04 GAVETAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">GAVETEIRO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001378</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">GAVETEIRO EM MDF MOGNO C/04 GAVETAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">GAVETEIRO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001382</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">MONITOR LCD DELL D1901NC</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MONITOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001387</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">PIN PAD GERTEC PPC 920</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">PIN PAD</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001388</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE SPLIT LG 11.500 BTUS </Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA JAGUARIBE/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001393</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001394</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA DIRETOR CAVALETTI</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001395</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001396</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001397</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001398</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001399</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001400</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001401</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001402</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001403</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001404</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001406</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR ELETROLUX INVERTER 12.000 BTUS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001407</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR ELETROLUX INVERTER 22.000 BTUS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001415</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">TELEVISOR LED SAMSUNG 49&quot;</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">TELEVISOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001416</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">TELEVISOR LED SAMSUNG 49&quot;</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">TELEVISOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001423</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">PURIFICADOR DE AGUA EVEREST SOFT PLUS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">PURIFICADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001426</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">COFRE EM AÇO MECANICO C/01 PORTA  75 CM</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">COFRE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001431</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">SWITCH INTELBRAS SF2400 QR 24 PORTAS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SWITCH</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001432</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">TRANSFORMADRO SOTRAFO POTENCIA 10 KVA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">TRANSFORMADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001433</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">ROTEADOR MEKARI CISCO</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ROTEADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001434</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">DVR INTELBRAS MULTI HD</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">DVR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001435</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">NOBREAK SMS 1.400 VA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">NOBREAK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001438</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">POLTRONA FIXA C/ESTOFADO TECIDO MARFIM TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">POLTRONA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001439</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">POLTRONA FIXA C/ESTOFADO TECIDO MARFIM TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">POLTRONA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/COPA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001442</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001443</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001444</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001445</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR APLIT SPRINGER MIDEA 9.000 BTUS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001448</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001449</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001450</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001451</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001452</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001453</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001454</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001455</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">TELEVISOR LED LG 50&quot;</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">TELEVISOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001457</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT SPRINGER MIDEA 12.000 BTUS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001460</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">BANQUETA FIXA EM MADEIRA C/ESTOFADO PRETO TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">BANQUETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001461</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">BANQUETA FIXA EM MADEIRA C/ESTOFADO PRETO TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">BANQUETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001462</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">BANQUETA FIXA EM MADEIRA C/ESTOFADO PRETO TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">BANQUETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001463</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">BANQUETA FIXA EM MADEIRA C/ESTOFADO PRETO TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">BANQUETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001464</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">POLTRONA FIXA EM MADEIRA C/ESTOFADO CINZA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">POLTRONA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001465</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">POLTRONA FIXA EM MADEIRA C/ESTOFADO CINZA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">POLTRONA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001466</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">POLTRONA FIXA EM MADEIRA C/ESTOFADO CINZA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">POLTRONA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001467</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">POLTRONA FIXA EM MADEIRA C/ESTOFADO CINZA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">POLTRONA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001468</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">POLTRONA FIXA EM MADEIRA C/ESTOFADO VERDE</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">POLTRONA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001474</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">TELEVISOR LED SAMSUNG 49&quot;</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">TELEVISOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001475</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">TELEVISOR LED SAMSUNG 49&quot;</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">TELEVISOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001477</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">BANQUETA FIXA EM MADEIRA C/ESTOFADO PRETO TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">BANQUETA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001483</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001484</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001485</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001486</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">COMPUTADOR DELL XPS INTEL CORE I5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">COMPUTADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001488</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT SPRINGER MIDEA 9.000 BTUS </Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001491</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001492</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001493</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001495</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT SPRINGER MIDEA 9.000 BTUS </Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001498</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001499</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001500</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA FIXA DE APROXIMAÇÃO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001502</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">EVAPORADOR/CONDENSADOR DE AR SPLIT SPRINGER MIDEA 9.000 BTUS </Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">EVAPORADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001507</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001509</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">CADEIRA GIRATORIA C/BRAÇO PRETA TOK &amp; STOK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CADEIRA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001510</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">COMPUTADOR DELL OPTIPLEX 3020 INTEL CORE I3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">COMPUTADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001513</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">COMPUTADOR DELL INTEL CORE I3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">COMPUTADOR</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001515</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">IMPRESSORA DE CULPOM DIEBOLD </Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">IMPRESSORA</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001517</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">PIN PAD GERTEC PPC 920</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">PIN PAD</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA MAG SHOPPING/CAIXAS</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">001525</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">NOBREAK SMS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">NOBREAK</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AGÊNCIA EUNAPOLIS/ATENDIMENTO</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.31496062000000002"/>
+    <Footer x:Margin="0.31496062000000002"/>
+    <PageMargins x:Bottom="0.78740157499999996" x:Left="0.511811024"
+     x:Right="0.511811024" x:Top="0.78740157499999996"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>90</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>90</Zoom>
+   <Selected/>
+   <TopRowVisible>63</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>76</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R1C1:R81C4"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>
